@@ -1,0 +1,5 @@
+=POV Globe using arduino (atmega328P) and 72 SMD Leds=
+
+http://povglobe.googlecode.com/files/DSC05853.JPG
+
+==Overview=
