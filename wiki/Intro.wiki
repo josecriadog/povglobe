@@ -1,6 +1,6 @@
 =POV Globe using arduino (atmega328P) and 72 SMD Leds=
 
-<img src="http://povglobe.googlecode.com/files/DSC05853.JPG" width=360 />
+<img src="http://povglobe.googlecode.com/files/DSC05853.JPG" width=360 >
 
 ==Overview=
 Arduino based POV globe capable of displaying monocolour bitmaps upto 72 pixels high and x width. (uses 72 LEDs, and one input to get rotation speed)
@@ -13,5 +13,29 @@ Code has been added to move the image slowly (so globe rotates nicely)
 
 Some Images I have displayed on globe are shown below
 
+<table><tr>
+<td>
+http://povglobe.googlecode.com/files/world%2072%20pixels%202.bmp?test.jpg
+</td>
+<td>
+http://povglobe.googlecode.com/files/hackaday2.bmp?test.jpg
+</td>
+<td>
+http://povglobe.googlecode.com/files/pumpkin.bmp?test.jpg
+</td>
+<td>
+http://povglobe.googlecode.com/files/us.bmp?test.jpg
+</td>
+</tr></table>
 
-<img src="http://povglobe.googlecode.com/files/hackaday2.bmp">
+Here's a picture of the globe showing the Hack a Day symbol.
+
+<img src="http://povglobe.googlecode.com/files/DSC05856.JPG" width=360 >
+
+At present I have the code rotating through 2 images showing each for a minute (this was done quickly and was a bit of a hack so needs doing properly still, I don't like the code)
+
+== Circuit ==
+
+Here is a schematic of the POV globe circuit, I tried to keep this as simple and with as few components for a few reasons, firstly I didn't want to spend anything making this (it is just a bit of fun), also I wanted to keep the weight of the rotating parts to a minimum. So for example you might notice the lack of resistors on the LED's, with my setup  this hasn't caused problems (yet), but I know I should have included them.
+
+http://povglobe.googlecode.com/files/POVGlobeSchematic.png
