@@ -38,4 +38,11 @@ At present I have the code rotating through 2 images showing each for a minute (
 
 Here is a schematic of the POV globe circuit, I tried to keep this as simple and with as few components for a few reasons, firstly I didn't want to spend anything making this (it is just a bit of fun), also I wanted to keep the weight of the rotating parts to a minimum. So for example you might notice the lack of resistors on the LED's, with my setup  this hasn't caused problems (yet), but I know I should have included them.
 
-http://povglobe.googlecode.com/files/POVGlobeSchematic.png
+<img src="http://povglobe.googlecode.com/files/POVGlobeSchematic.png" width=960 >
+
+There is a eagle schematic in the downloads section also.
+
+The LED's I found at work being thrown out, hence I didn't choose the colour etc.
+I soldered them with common anode/cathode (cant remember) in eights, soldered other side of first banck of LED's to individual long wires, these were then folded and soldered to matching LED on following 9 banks, its great working with the varnished wire, no stripping etc, just heat the wire with solder and it burns of the varnish at that point. Another tip, soldering the LED's I stuck them face down onto masking tape to keep them in place, image of soldering in progress below.
+
+<img src="http://povglobe.googlecode.com/files/IMG_0719.JPG" width=360 >
