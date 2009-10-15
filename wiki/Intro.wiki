@@ -51,4 +51,22 @@ I went through a number of designs to transfer power to the rotating parts, my s
 
 <img src="http://povglobe.googlecode.com/files/DSC05842.jpg" width=360 >
 
-With the new frame I wanted a quite easy to mount/use motor, so I hacked apart a cheap Computer fan (Highest power I had 20mA I think) 
+With the new frame I wanted a quite easy to mount/use motor, so I hacked apart a cheap 2 wire computer fan (Highest power I had 20mA I think), these are brushless motors with there own driver circuit built in, very quite, but also low power.
+Here is a picture of the fan motor with fins and housing cut away, and bolt hot glued to the centre of the top ready for the globe cylinder to be attached.
+
+<img src="http://povglobe.googlecode.com/files/IMG_0757.JPG" width=360 >
+
+And attached to globe cylinder and frame.
+
+<img src="http://povglobe.googlecode.com/files/DSC05840.jpg" width=360 >
+
+The globe cylinder was made from the lid of a DVD stack, again it was lying around and was the perfect circumference for my 72 soldered LEDs. Also very light weight and as a bonus a bit see through. DVD stack lid incase you dont know what one looks like :-)
+
+<img src="http://povglobe.googlecode.com/files/IMG_0759.JPG" width=360 >
+
+The headphone socket was soldered to the circuit, this was then put through a hole melted in the DVD case cylinder and screwed into place, this is them simply plugged into the headphone plug screwed into a threaded hole in the metal frame, ground is provided through the frame, +5V runs to a pin on the headphone plug through a wire going up the frame back, from the regulator circuit soldered onto the back of the on off switch bolted to the frame.
+
+<img src="http://povglobe.googlecode.com/files/DSC05835.jpg" width=360 >
+<img src="http://povglobe.googlecode.com/files/DSC05834.jpg" width=360 >
+<img src="http://povglobe.googlecode.com/files/DSC05827.jpg" width=360 >
+<img src="http://povglobe.googlecode.com/files/DSC05833.jpg" width=360 >
