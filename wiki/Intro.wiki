@@ -1,6 +1,6 @@
 =POV Globe using arduino (atmega328P) and 72 SMD Leds=
 
-<img src="http://povglobe.googlecode.com/files/DSC05853.JPG" width=360 >
+<img src="http://povglobe.googlecode.com/files/DSC05853.JPG" width=660 >
 
 ==Overview=
 Arduino based POV globe capable of displaying monocolour bitmaps upto 72 pixels high and x width. (uses 72 LEDs, and one input to get rotation speed)
@@ -50,3 +50,5 @@ I soldered them with common anode/cathode (cant remember) in eights, soldered ot
 I went through a number of designs to transfer power to the rotating parts, my second most successful solution was on a different frame (using a big drill motor) to pass ground through the motor to the base of the cylinder, and use washers to pas +12v to the top of the cylinder, problem with this design was that it would occasionally loose contact, resetting the atmega. I thought about using a super cap as a backup battery, but didn't have any, so went to a smaller frame design (far nicer) and used a audio jack and socket, this design is working perfectly never skipping. Picture Below:
 
 <img src="http://povglobe.googlecode.com/files/DSC05842.jpg" width=360 >
+
+With the new frame I wanted a quite easy to mount/use motor, so I hacked apart a cheap Computer fan (Highest power I had 20mA I think) 
