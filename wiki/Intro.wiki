@@ -30,7 +30,7 @@ http://povglobe.googlecode.com/files/us.bmp?test.jpg
 
 Here's a picture of the globe showing the Hack a Day symbol.
 
-<img src="http://povglobe.googlecode.com/files/DSC05856.JPG" width=360 >
+<img src="http://povglobe.googlecode.com/files/DSC05856.JPG" width=660 >
 
 At present I have the code rotating through 2 images showing each for a minute (this was done quickly and was a bit of a hack so needs doing properly still, I don't like the code)
 
